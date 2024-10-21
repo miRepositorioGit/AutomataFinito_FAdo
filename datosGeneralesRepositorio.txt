@@ -1,0 +1,21 @@
+datosGeneralesRepositorio.txt
+
+Dirección repositorio
+	https://github.com/miRepositorioGit/AutomataFinito_FAdo.git
+	
+Creación del repositorio.
+
+	echo "# AutomataFinito_FAdo" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/miRepositorioGit/AutomataFinito_FAdo.git
+	git push -u origin main
+	
+Actualización del repositorio
+
+	
+	git add README.md
+	git commit -m "first commit"
+	git push -u origin main
